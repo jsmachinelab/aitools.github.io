@@ -43,15 +43,14 @@
               </button>
               <a class="navbar-brand" href="#">JS Machine Lab</a>
             </div>
-            <div class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
+            <div class="navbar-collapse collapse">              <ul class="nav navbar-nav">
                 <li class="menuItem active"><a href="#home">Home</a></li>
-                <li class="menuItem"><a href="#androidtips">JS Tips</a></li>
-                <li class="menuItem"><a href="#amvvm">JS MVVM & MVP</a></li>
-                <li class="menuItem"><a href="#vlogs">Vlogs</a></li>
-                <li class="menuItem"><a href="#samples">JS Samples</a></li>
-                <li class="menuItem"><a href="#slack">JS on Slack</a></li>
-                <li class="menuItem"><a href="#agilehub">Agile Hub</a></li>
+                <li class="menuItem"><a href="#androidtips">ML Tips</a></li>
+                <li class="menuItem"><a href="#amvvm">ML in Jupyter</a></li>
+                <li class="menuItem"><a href="#vlogs">ML Vlogs</a></li>
+                <li class="menuItem"><a href="#samples">ML Python Samples</a></li>
+                <li class="menuItem"><a href="#slack">ML on Slack</a></li>
+    <li class="menuItem"><a href="#agilehub">NSBE Videos</a></li>
      <!--            <li class="menuItem"><a href="#agilehub">Scrum Hub</a></li>    -->
     <!--             <li class="menuItem"><a href="#contact">Footer</a></li>   -->
               </ul>
