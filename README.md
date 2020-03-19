@@ -1,2 +1,2 @@
-# jsmachinelab.github.io
-Some tips for JS
+# aitoolset.github.io
+Some tips for AI models and development
